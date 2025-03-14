@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeyinka Agbogun</h1>
-<h3 align="center">A passionate Cybersecurity from Nigeria</h3>
+<h3 align="center">A Cybersecurity from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisade&label=Profile%20views&color=0e75b6&style=flat" alt="heisade" /> </p>
 
