@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisade&label=Profile%20views&color=0e75b6&style=flat" alt="heisade" /> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/agbogunadeyinka.png" alt="Your Image Badge" />
+<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/agbogunadeyinka.png" alt="Your Image Badge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisade" alt="heisade" /></a> </p>
 
