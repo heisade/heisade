@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisade" alt="heisade" /></a> </p>
 
-<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/heisade.png" alt="Your Image Badge" /> </p>
+<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/heisade.png" alt="Your Image Badge" />
 
 - 🔭 I’m currently working on [Ethical hacking](https://github.com/heisade/heisade.cybersecurityjourney.github.io)
 
