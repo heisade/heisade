@@ -25,8 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heisade&show_icons=true&locale=en&layout=compact" alt="heisade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heisade&show_icons=true&locale=en" alt="heisade" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heisade&" alt="heisade" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
