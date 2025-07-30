@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on [Ethical hacking](https://github.com/heisade/heisade.cybersecurityjourney.github.io)
 
-- 🌱 I’m currently learning **About WEB3**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [Personal website](https://github.com/heisade/heisade.cybersecurityjourney.github.io/tree/main/websites)
-
-- 🤝 I’m looking for help with [Personal website](https://github.com/heisade/heisade.cybersecurityjourney.github.io/tree/main/websites)
+- 👯 I’m looking to collaborate on [Bug Bounty](https://hackerone.com/heisade?type=user)
 
 - 👨‍💻 All of my projects are available at [https://github.com/heisade](https://github.com/heisade)
 
@@ -24,8 +22,6 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **agbogunadeyinka@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/adeyinka-agbogun-87232223a/](https://www.linkedin.com/in/adeyinka-agbogun-87232223a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
