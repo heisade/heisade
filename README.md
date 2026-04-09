@@ -4,7 +4,7 @@
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=516CF7&background=FF592500&width=435&lines=Sleep%2C+Hack%2C+Repeat"/></p>
 <br>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisade" alt="heisade" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisade" alt="heisade" /></a></p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)
 
 <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+linux+btw+<3"></p>
 
