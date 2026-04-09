@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisade&label=Profile%20views&color=0e75b6&style=flat" alt="heisade" /> </p>
 <h1 align="center">Hi 👋, I'm Adeyinka Agbogun</h1>
 <br>
-<p align='center'><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=516CF7&background=FF592500&width=435&lines=Sleep%2C+Hack%2C+Repeat"></p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=516CF7&background=FF592500&width=435&lines=Sleep%2C+Hack%2C+Repeat"/></p>
 <br>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisade" alt="heisade" /></a></p>
